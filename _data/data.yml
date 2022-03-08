@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Esteban Ramos
-    tagline: Cibersecurity Engineer
+    tagline: Cybersecurity Engineer
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,11 +18,11 @@ sidebar:
     github: estebanramos
 
     languages:
-      - idiom: Español
-        level: Nativo
+      - idiom: Spanish
+        level: Native
 
-      - idiom: Inglés
-        level: Intermedio
+      - idiom: English
+        level: Fluent
 
      #- idiom: Spanish
      #   level: Professional
@@ -38,49 +38,47 @@ sidebar:
     #    link:
 
 career-profile:
-    title: Perfil Profesional
+    title: Carreer Profile
     summary: |
-      Apasionado de la informática, el software libre y la ciberseguridad. Habilidad en tomas de decisión y rápida resolución de problemas, fácil adaptación a equipos de trabajo.
+      Open source entusiasth, Linux and Infosec entusiasth. Decision making and problem solving skills.
 education:
-    - degree: Licenciatura en Sistemas
+    - degree: Bachelor in Computer Science
       university: Facultad de Informática UNLP
       time: 2014 - Presente
       details: |
-        Actualmente finalizando cuarto y quinto año. Múltiples optativas aprobadas orientadas a
-        ciberseguridad y redes de Internet.
+        Multiple assignments subjects oriented to Cybersecurity and Networking.
     - degree: Analista Programador Universitario
       university: Facultad de Informática UNLP
       time: 2014 - 2022
       details: |
-        Título intermedio de grado orientado a conocimientos básicos de los fundamentos de la informática y de las tecnologías actuales.
+        Mid-degree oriented to software developing skills.
 experiences:
-    - role: Analista en Seguridad Informática
-      time: Agosto 2020 - Presente
-      company: Gobierno de la Provincia de Buenos Aires, Argentina
+    - role: Cybersecurity Analyst
+      time: August 2020 - Presente
+      company: Government of Buenos Aires, Argentina
       details: |
-        Actuando como miembro del equipo de respuesta ante incidentes (CSIRT) y dando soporte de seguridad a los organismos bajo la órbita del Gobierno de Buenos Aires.
-          - Administración de Firewall Checkpoint
-          - Administración de McAfee ePolicy Orchestrator
-          - Pentesting y Vulnerability Assessment (Burp Suite, Nessus, Acunetix, Arachni)
-          - Administración de SOC
-          - Recolección de logs y estadísticas de equipos y servidores
-          - Administración de servidores Linux
-          - Administración y configuración de contenedores Docker
-    - role: Profesor Universidad Abierta Interamericana
-      time: Abril 2022 - Diciembre 2022
+        Acting as member of CSIRT-PBA and giving security support and to the organizations under the orbit of the government of Provincia de Buenos Aires.
+          - Checkpoint Firewall Administration
+          - McAfee ePolicy Orchestrator Administration
+          - Pentesting & Vulnerability Assessment (Burp Suite, Nessus, Acunetix, Arachni)
+          - SOC Administration
+          - Linux Servers Administration
+          - Administration & configuration of Docker containers.
+    - role: Teacher at Universidad Abierta Interamericana
+      time: April 2022 - December 2022
       company: Universidad Abierta Interamericana
       details: |
-        Dictando las materias Ciberseguridad I y Ciberseguridad II dentro del marco de la "Diplomatura Superior Internacional en inteligencia en organismos del estado y empresas privadas"         
+        Teaching the subjects Cybersecurity I and Cybersecurity II in the degree "Diplomatura Superior Internacional en inteligencia en organismos del estado y empresas privadas"         
     - role: Trainee Engineer
-      time: Noviembre 2019 - Agosto 2020
+      time: November 2019 - August 2020
       company: Ensolvers, Buenos Aires, Argentina
       details: |
-        Trabajando bajo molidad SCRUM como desarrollador Full Stack desarrollando aplicaciones web y móviles.
-          - Amazon Web Services - EC2, S3, ECS, CloudFront, R53 y más
+        Working under SCRUM, developing webpage and mobile applications.
+          - Amazon Web Services - EC2, S3, ECS, CloudFront, R53.
           - Angular/React
           - Spring Boot/Spring
           - SQL
-          - Configuración y build de imágenes Docker para entornos productivos
+          - Configuration and building of Docker images for production environments
 # projects:
 #     title: Projects
 #     intro: >
@@ -109,48 +107,48 @@ experiences:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 projects:
-    title: Exposiciones
+    title: Talks
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #  bibendum fringilla a eu lectus.
     assignments:
       - title: Charla sobre Seguridad Informática en ámbitos personales y laborales
-        tagline: Universidad Abierta Interamericana, Noviembre 2021
-      - title: Jornada de disertación sobre Cibercrimen y Seguridad en Redes
-        tagline: Escuela de Cadetes “Inspr. Gral. Baltasar A. Iramain", La Plata, Julio 2019
+        tagline: Universidad Abierta Interamericana, November 2021
+      - title: Dissertation session on Cybercrime and Network Security
+        tagline: Cadet school “Inspr. Gral. Baltasar A. Iramain", La Plata, July 2019
 
 publications:
-    title: Cursos
+    title: Courses
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #  bibendum fringilla a eu lectus.
     papers:
-      - title: Seguridad en los Sistemas de Control Industrial (ICS/SCADA)
+      - title: Securing Industrial Control Systems (ICS/SCADA)
         link: "#"
         authors:  Cyber4Dev/OAS
-        conference: Febrero 2022
-      - title: Curso de Hacking Ético
+        conference: February 2022
+      - title: Ethical Hacking Course
         link: "https://platzi.com/p/Eramos/curso/1583-ethical-hacking/diploma/detalle/"
         authors: Platzi
-        conference: Febrero 2021
-      - title: Curso Básico de Seguridad Informática para Empresas
+        conference: February 2021
+      - title: Basic Course of Computer Security for Companies
         link: "https://platzi.com/p/Eramos/curso/1647-seguridad-empresas/diploma/detalle/"
         authors: Platzi
-        conference: Febrero 2021
-      - title: Curso de Fundamentos de Pentesting
+        conference: February 2021
+      - title: Pentesting Fundamentals Course
         link: "https://platzi.com/p/Eramos/curso/1669-pentesting/diploma/detalle/"
         authors: Platzi
-        conference: Enero 2021
-      - title: Curso de Redes Informáticas de Internet
+        conference: January 2021
+      - title: Internet Computer Networks Course
         link: "https://platzi.com/p/Eramos/curso/2225-redes/diploma/detalle/"
         authors: Platzi
-        conference: Octubre 2020   
-      - title: Curso de Introducción a la Seguridad Informática
+        conference: October 2020   
+      - title: Introduction to Computer Security Course
         link: "https://platzi.com/p/Eramos/curso/1496-seguridad-informatica/diploma/detalle/"
         authors: Platzi
-        conference: Abril 2020 
+        conference: April 2020 
         
 #publications:
 #    title: Formación Complementaria
@@ -162,7 +160,7 @@ publications:
 #      - title: Competencias Capture The Flag (CTF)
 #      - title: Máquinas en Hack The Box
 skills:
-    title: Aptitudes
+    title: Skills
     toolset:
       - name: Python 
         level: 70%
