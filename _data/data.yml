@@ -40,11 +40,11 @@ sidebar:
 career-profile:
     title: Carreer Profile
     summary: |
-      Open source entusiasth, Linux and Infosec entusiasth. Decision making and problem solving skills.
+      Open source, Linux and Infosec entusiasth. Decision making and problem solving skills.
 education:
     - degree: Bachelor in Computer Science
       university: Facultad de Informática UNLP
-      time: 2014 - Presente
+      time: 2014 - Present
       details: |
         Multiple assignments subjects oriented to Cybersecurity and Networking.
     - degree: Analista Programador Universitario
@@ -54,7 +54,7 @@ education:
         Mid-degree oriented to software developing skills.
 experiences:
     - role: Cybersecurity Analyst
-      time: August 2020 - Presente
+      time: August 2020 - Present
       company: Government of Buenos Aires, Argentina
       details: |
         Acting as member of CSIRT-PBA and giving security support and to the organizations under the orbit of the government of Provincia de Buenos Aires.
