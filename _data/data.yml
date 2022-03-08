@@ -113,10 +113,10 @@ projects:
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #  bibendum fringilla a eu lectus.
     assignments:
-      - title: Charla sobre Seguridad Informática en ámbitos personales y laborales
+      - title: Information Security in personal and work environments
         tagline: Universidad Abierta Interamericana, November 2021
       - title: Dissertation session on Cybercrime and Network Security
-        tagline: Cadet school “Inspr. Gral. Baltasar A. Iramain", La Plata, July 2019
+        tagline: Cadet school Inspr. Gral. Baltasar A. Iramain, La Plata, July 2019
 
 publications:
     title: Courses
